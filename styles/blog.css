@@ -1,8 +1,8 @@
 div{
-    background-color: bisque;
+    background-color: rgb(121, 128, 124);
     padding: 10px;
     margin: 10px;
-    border: 10px solid salmon;
-    box-shadow: 10px 10px rgba(0, 0, 0, 0.804);
-    margin-bottom: 5px;
+    border: 2px solid rgb(100, 104, 136);
+    box-shadow: 10px 10px 10px rgb(85, 90, 85);
+    margin-bottom: 20px;
 }
